@@ -1,10 +1,11 @@
 #quickDiv {
-  top: 970px;
   left: 45px;
-  width: 78px;
-  height: 78px;
+
   background: #1515c2 0% 0% no-repeat padding-box;
   box-shadow: 7px 7px 7px #00000029;
   border: 1px solid #ffffff;
   opacity: 1;
+}
+#quickMsg img {
+  padding: 10px;
 }
